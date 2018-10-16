@@ -17,7 +17,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  blue = favorite_color.pop(array)
+  array = favorite_color.pop(array)
 end
 
 def remove_element_from_start_of_array(array)
