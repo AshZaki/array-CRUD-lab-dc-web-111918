@@ -3,16 +3,16 @@ def create_an_empty_array
 end
 
 def create_an_array
-  favorite_color = ["yello", "pink", "green", "blue"]
+  favorite_color = ["yellow", "pink", "green", "blue"]
 end
 
 def add_element_to_end_of_array(array, element)
-  favorite_color = ["yello", "pink", "green", "blue"]
+  favorite_color = ["yellow", "pink", "green", "blue"]
   favorite_color.push(element)
 end
 
 def add_element_to_start_of_array(array, element)
-  favorite_color = ["yello", "pink", "green", "blue"]
+  favorite_color = ["yellow", "pink", "green", "blue"]
   favorite_color.unshift(element)
 end
 
